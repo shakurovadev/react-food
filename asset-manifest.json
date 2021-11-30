@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-food/static/css/main.cd5fea05.chunk.css",
-    "main.js": "/react-food/static/js/main.8550a5de.chunk.js",
-    "main.js.map": "/react-food/static/js/main.8550a5de.chunk.js.map",
+    "main.js": "/react-food/static/js/main.c05d6daf.chunk.js",
+    "main.js.map": "/react-food/static/js/main.c05d6daf.chunk.js.map",
     "runtime-main.js": "/react-food/static/js/runtime-main.bfd87752.js",
     "runtime-main.js.map": "/react-food/static/js/runtime-main.bfd87752.js.map",
     "static/js/2.033053ad.chunk.js": "/react-food/static/js/2.033053ad.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.bfd87752.js",
     "static/js/2.033053ad.chunk.js",
     "static/css/main.cd5fea05.chunk.css",
-    "static/js/main.8550a5de.chunk.js"
+    "static/js/main.c05d6daf.chunk.js"
   ]
 }
