@@ -8,6 +8,7 @@ function Footer() {
                         className='grey-text text-lighten-4 right'
                         href='https://github.com/shakurovadev/react-food'
                         target='_blank'
+                        rel='noreferrer'
                     >
                         Repo
                     </a>
